@@ -1,3 +1,4 @@
-# Este proyecto es una practica que estoy realizando para aplicar todo lo aprendido de los curso que llevo realziados.
-# En el mismo se aplica el uso de Python, librerias de manipulacion de datos.
-# Se realiza busqueda de datos, limpieza y enriquecimiento.
+# Hola bienvenido!
+
+Me llamo Nicolas Ezequiel Lugones y soy estudiante de Data Engineering en Platzi 
+Este es mi primer proyecto de Data Science, espero te guste y puedas darme tu opinión.
